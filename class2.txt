@@ -1,0 +1,43 @@
+class2
+
+online shopping mall 
+ex) meca solution / device mart (kor)
+ex) sparkfun /  adafruit (global)
+
+-------------------------------------------------
+
+component v modulo
+component)
+simple connection(2 piece)
+compact
+
+module)
+expensive
+3 pieces connection
+simple
+
+-------------------------------------------------
+
+bread board
+history: prototyped circuits on the cutting boards for bread
+
+bread board internal)
+metal strip -> connect vcc, gnd
+5 holes connected inside, which means you can use same row
+distance between adjacant holes(same row) connected, but "on" a same  long metal strip(terminal) -> all connected
+
+smart bread board
+stemtera(arduino embeded -> extra external arduino not reqired) / electronic explorer
+
+---------------------------------------------------
+
+simple circuit
+electrons: -(gnd) => +(vcc)
+current flow: + => -
+
+register / battery(np)/ led(pn) (p to p, n to n)
+
+---------------------------------------------------
+
+psets using easyEDA
+
