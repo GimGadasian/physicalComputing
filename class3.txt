@@ -1,0 +1,34 @@
+class3
+switch - open and close the circuit / different pair of wire connected
+
+wire)
+dot -> connected wires
+dot x, crossed -> not connected wires
+
+switch)
+pushbutton: default - not connected
+toggle switch: default - connected
+
+homework)
+circuit design using 555 switch using bread board(but practice first with circuit)
+
+ac/dc)
+
+dc: voltage rate stable over time
+ac: votage rate changes over time
+
+Ohm's law(V = IR)
+current flow v water flaw:
+	pump : battery
+	water pressure(distance between two water height levels) : voltage
+	water flow : current flow
+	cylinder narrow : resistance
+which means, battery keeps voltage level different -> keeps current flow
+
+	I = V / R
+	tip) see carefully to the units since sometimes it gives mV, mA etc.. / ex) 1 mega Ohm = 1000 kilo-Ohm = 1,000,000 Ohm
+
+	I = I1 + I2 + I3
+	
+	
+
